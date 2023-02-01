@@ -24,6 +24,10 @@ Each member of the community will mint their vote into the Federation using an I
 
 ### b) Bidding Process
 
+
+https://user-images.githubusercontent.com/29168985/215965024-1995c185-ae7f-4aa7-8ef8-2150c218697f.mp4
+
+
 **Federation Composition** - Community Members + External Storage Provider
 
 - A, B and C are companies using Fedimint. These 3 companies will participate in a bidding process during which they will have to mint all the documentation required by who's carrying out the bidding.
