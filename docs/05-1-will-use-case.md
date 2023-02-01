@@ -33,6 +33,10 @@ When Alice dies, Bob claims the will by passing his pocket note to the Federatio
 
 ![will-schema-diagram](./assets/will-schema-diagram.png)
 
+##### App Wireframe
+
+![Wireframe Fedimint Will](https://user-images.githubusercontent.com/29168985/215969462-ba1e7a38-bd1c-49b1-9cb4-34a784918ab5.jpg)
+
 ###### Continue with [Evidence Disclosure Use Case](./05-2-evidence-disclosure-use-case.md)
 
 ###### Got to [Menu](../README.md)
