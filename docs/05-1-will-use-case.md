@@ -1,5 +1,11 @@
 # Will
 
+
+
+https://user-images.githubusercontent.com/29168985/215959774-bf87f45b-ac2c-4a04-8925-00a2d910f5a4.mp4
+
+
+
 **Objective/Context:** Alice wants her will to be delivered to her son Bob when she dies. She also knows that the country's government she lives in will take a huge percentage of that as a government's fee, maybe 30% or 40%. So Alice needs another option... the Federation.
 
 **Federation Composition** - Family Members
