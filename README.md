@@ -6,7 +6,7 @@ A way to custody, manage and storage any type of data using Fedimint.
 
 1. [Internal Storage Schema](./docs/01-internal-storage-schema.md)
 
-2. [What is a Pocket](./docs/02-what-is-a-pocket.md)
+2. [What is a Pocket?](./docs/02-what-is-a-pocket.md)
 
 3. [What is an “I’m alive ping”?](./docs/03-i-am-alive-ping.md)
 
