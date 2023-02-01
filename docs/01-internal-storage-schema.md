@@ -10,7 +10,7 @@ Storage Contract can specify:
 1. Who will receive a note called pocket to redeem stored data (must be a Fedimint user).
 2. Choose the type of storage schema (Internal Storage Provider Schema).
 3. Select Guardians assigned to monitoring some event.
-4. Mention how many percent of Guardians are necessary to allow 4. users to redeem data with their pockets.
+4. Mention how many percent of Guardians are necessary to allow users to redeem data with their pockets.
 5. Indicate how often Guardians should respond to an "I'm alive ping" or if they don't need to respond.
 
 #### Step 2: Broadcast to Internal Storage Providers
