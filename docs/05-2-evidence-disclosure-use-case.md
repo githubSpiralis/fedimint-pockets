@@ -27,6 +27,11 @@ When authorities confirm an attempt against Dave, the Guardians, in this case so
 
 ![will-schema-diagram](./assets/evidence-disclosure-diagram.png)
 
+### App Wiframe
+
+![Wireframe Fedimint Eviden Disclosure](https://user-images.githubusercontent.com/29168985/215969979-79ff4826-778e-4988-9882-267d88758ddd.jpg)
+
+
 ###### Continue with [Avoid Corruption Use Case](./05-3-avoid-corruption-use-case.md)
 
 ###### Got to [Menu](../README.md)
